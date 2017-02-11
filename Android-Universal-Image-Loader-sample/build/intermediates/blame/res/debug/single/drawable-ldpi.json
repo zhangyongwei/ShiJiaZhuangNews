@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_empty.png",
+        "source": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-ldpi\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_error.png",
+        "source": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-ldpi\\ic_error.png"
+    },
+    {
+        "merged": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_stub.png",
+        "source": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-ldpi\\ic_stub.png"
+    }
+]

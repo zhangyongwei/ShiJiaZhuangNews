@@ -1,0 +1,7 @@
+include ':app', ':SlidingMenu_library', ':AndroidAndJs', ':AndroidAndH5', ':ViewPagerIndicator_sample', ':PhotoView_sample', ':PhotoView_library', ':JPushExample(586061)', ':Universal-Image-Loader_library', ':Android-Universal-Image-Loader-sample'
+include ':ViewPagerIndicator_library'
+
+include ':PullToRefresh_library'
+include ':pullToRefreshListFragment'
+include ':pullToRefreshViewPager'
+include ':PullToRefresh_sample'
