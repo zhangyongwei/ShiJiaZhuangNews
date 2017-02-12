@@ -143,8 +143,19 @@ public class PhotosMenuDetailPager extends MenuDetailBasePager {
         //设置RecyclerView的适配器
         adapter = new PhotosMenuDetailPagerAdapter(mContext, bean.getData().getNews(),recyclerview);
         recyclerview.setAdapter(adapter);
-        //设置布局管理器
-        recyclerview.setLayoutManager(new LinearLayoutManager(mContext, LinearLayoutManager.VERTICAL, false));
+        if (!isList) {
+
+            recyclerview.setLayoutManager(new GridLayoutManager(mContext, 2, GridLayoutManager.VERTICAL, false));
+
+            isList = false;
+
+
+        } else {
+
+            recyclerview.setLayoutManager(new LinearLayoutManager(mContext, LinearLayoutManager.VERTICAL, false));
+
+            isList = true;
+        }
     }
 
     /**
@@ -170,6 +181,7 @@ public class PhotosMenuDetailPager extends MenuDetailBasePager {
             recyclerview.setLayoutManager(new LinearLayoutManager(mContext, LinearLayoutManager.VERTICAL, false));
             //按钮设置List效果
             ib_switch.setImageResource(R.drawable.icon_pic_grid_type);
+            isList = true;
         }
 
       /*  if (isShowListView) {

@@ -42,6 +42,7 @@ public class NewsMenuDetailPager extends MenuDetailBasePager {
     TabPageIndicator indicator;
     @InjectView(R.id.lb_next)
     ImageButton ibNext;
+    private int prePosition;
 
     public NewsMenuDetailPager(Context context, NewsCenterBean.DataBean dataBean) {
         super(context);
@@ -85,6 +86,8 @@ public class NewsMenuDetailPager extends MenuDetailBasePager {
 
             }
         });
+
+        indicator.setCurrentItem(prePosition);
     }
 
     class MyOnPageChangeListener implements ViewPager.OnPageChangeListener{
@@ -96,6 +99,9 @@ public class NewsMenuDetailPager extends MenuDetailBasePager {
 
         @Override
         public void onPageSelected(int position) {
+
+            prePosition = viewpager.getCurrentItem();
+
             MainActivity mainActivity = (MainActivity) mContext;
 
             if(position==0){

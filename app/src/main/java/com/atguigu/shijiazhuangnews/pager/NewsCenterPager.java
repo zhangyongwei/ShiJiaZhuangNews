@@ -73,6 +73,8 @@ public class NewsCenterPager extends BasePager {
 
         //联网请求
         getDataFromNet();
+
+
     }
 
     /**
