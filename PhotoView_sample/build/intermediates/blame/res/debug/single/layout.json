@@ -72,12 +72,12 @@
         "source": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",

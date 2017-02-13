@@ -8,22 +8,35 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AFinal-Simple" />
             <option value="$PROJECT_DIR$/Android-Universal-Image-Loader-sample" />
             <option value="$PROJECT_DIR$/AndroidAndH5" />
             <option value="$PROJECT_DIR$/AndroidAndJs" />
             <option value="$PROJECT_DIR$/JPushExample(586061)" />
             <option value="$PROJECT_DIR$/OkHttpSample" />
+            <option value="$PROJECT_DIR$/OkHttpUtils-masters" />
             <option value="$PROJECT_DIR$/PhotoView_library" />
             <option value="$PROJECT_DIR$/PhotoView_sample" />
             <option value="$PROJECT_DIR$/PullToRefresh_library" />
             <option value="$PROJECT_DIR$/PullToRefresh_sample" />
             <option value="$PROJECT_DIR$/SlidingMenu_library" />
+            <option value="$PROJECT_DIR$/SpannableStringBuilderDemo" />
             <option value="$PROJECT_DIR$/Universal-Image-Loader_library" />
+            <option value="$PROJECT_DIR$/VariousShapeImageView-圆角图片" />
             <option value="$PROJECT_DIR$/ViewPagerIndicator_library" />
             <option value="$PROJECT_DIR$/ViewPagerIndicator_sample" />
+            <option value="$PROJECT_DIR$/android-gif-drawable-library" />
+            <option value="$PROJECT_DIR$/android_gif_drawable_demo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/okhttpserver" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/okhttputils_library" />
             <option value="$PROJECT_DIR$/pullToRefreshListFragment" />
             <option value="$PROJECT_DIR$/pullToRefreshViewPager" />
+            <option value="$PROJECT_DIR$/sample-okhttp" />
+            <option value="$PROJECT_DIR$/upload_file_android" />
+            <option value="$PROJECT_DIR$/xUtils3-sample" />
+            <option value="$PROJECT_DIR$/xutils_library" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

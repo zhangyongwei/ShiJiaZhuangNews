@@ -19,13 +19,12 @@ import com.atguigu.shijiazhuangnews.bean.PhotosMenuBean;
 import com.atguigu.shijiazhuangnews.utils.CacheUtils;
 import com.atguigu.shijiazhuangnews.utils.Constants;
 import com.google.gson.Gson;
-
-import org.xutils.common.Callback;
-import org.xutils.http.RequestParams;
-import org.xutils.x;
+import com.zhy.http.okhttp.OkHttpUtils;
+import com.zhy.http.okhttp.callback.StringCallback;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
+import okhttp3.Call;
 
 /**
  * Created by 张永卫on 2017/2/6.
@@ -96,33 +95,56 @@ public class PhotosMenuDetailPager extends MenuDetailBasePager {
      * 联网请求数据
      */
     private void getDataFromNet(final String url) {
-        RequestParams params = new RequestParams(url);
-        x.http().get(params, new Callback.CommonCallback<String>() {
-            @Override
-            public void onSuccess(String result) {
+//        RequestParams params = new RequestParams(url);
+//        x.http().get(params, new Callback.CommonCallback<String>() {
+//            @Override
+//            public void onSuccess(String result) {
+//
+//                // Log.e("TAG","请求成功=="+result);
+//                CacheUtils.putString(mContext,url,result);
+//                processData(result);
+//
+//                swipe_refresh_layout.setRefreshing(false);
+//            }
+//
+//            @Override
+//            public void onError(Throwable ex, boolean isOnCallback) {
+//                Log.e("TAG", "请求失败==" + ex.getMessage());
+//            }
+//
+//            @Override
+//            public void onCancelled(CancelledException cex) {
+//                Log.e("TAG", "onCancelled==" + cex.getMessage());
+//            }
+//
+//            @Override
+//            public void onFinished() {
+//                Log.e("TAG", "onFinished==");
+//            }
+//        });
 
-                // Log.e("TAG","请求成功=="+result);
-                CacheUtils.putString(mContext,url,result);
-                processData(result);
 
-                swipe_refresh_layout.setRefreshing(false);
-            }
+        OkHttpUtils
+                .get()
+                .url(url)
+//                .addParams("username", "hyman")
+//                .addParams("password", "123")
+                .build()
+                .execute(new StringCallback() {
+                    @Override
+                    public void onError(Call call, Exception e, int id) {
+                        Log.e("TAG", "okhttp请求失败==" + e.getMessage());
+                    }
 
-            @Override
-            public void onError(Throwable ex, boolean isOnCallback) {
-                Log.e("TAG", "请求失败==" + ex.getMessage());
-            }
+                    @Override
+                    public void onResponse(String response, int id) {
+                        // Log.e("TAG","okhttp请求成功=="+result);
+                           CacheUtils.putString(mContext,url,response);
+                           processData(response);
 
-            @Override
-            public void onCancelled(CancelledException cex) {
-                Log.e("TAG", "onCancelled==" + cex.getMessage());
-            }
-
-            @Override
-            public void onFinished() {
-                Log.e("TAG", "onFinished==");
-            }
-        });
+                           swipe_refresh_layout.setRefreshing(false);
+                    }
+                });
     }
 
     private void processData(String result) {

@@ -28,12 +28,12 @@
         "source": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
         "merged": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_text_material.xml",
         "source": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",

@@ -60,12 +60,12 @@
         "source": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "D:\\ShiJiaZhuangNews\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
