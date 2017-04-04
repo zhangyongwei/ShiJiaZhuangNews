@@ -2,5 +2,9 @@
     {
         "merged": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\PhotoView_sample\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

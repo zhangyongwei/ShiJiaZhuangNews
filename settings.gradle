@@ -1,7 +1,9 @@
-include ':app', ':SlidingMenu_library', ':AndroidAndJs', ':AndroidAndH5', ':ViewPagerIndicator_sample', ':PhotoView_sample', ':PhotoView_library', ':JPushExample(586061)', ':Universal-Image-Loader_library', ':Android-Universal-Image-Loader-sample', ':OkHttpSample'
+include ':app', ':SlidingMenu_library', ':AndroidAndJs', ':AndroidAndH5', ':ViewPagerIndicator_sample', ':PhotoView_sample', ':PhotoView_library', ':JPushExample(586061)', ':Universal-Image-Loader_library', ':Android-Universal-Image-Loader-sample', ':OkHttpSample', ':sample-okhttp', ':okhttputils_library', ':OkHttpUtils-masters', ':okhttpserver', ':okhttputils', ':android-gif-drawable-library', ':android_gif_drawable_demo', ':VariousShapeImageView-圆角图片', ':SpannableStringBuilderDemo', ':xutils_library', ':xUtils3-sample', ':AFinal-Simple', ':ScreenAdapter_PIC', ':ScreenAdapter_Layout', ':ScreenAdapter_Code', ':ScreenAdapter_Weight', ':ScreenAdapter_Dimension', ':ScreenAdpater_percent', ':BaiDuLocal', ':BaiduMapsApiASDemo', ':BaiduMapSDK_BikeNavi_Demo', ':BaiduMap_AndroidPanoramaSDK_v2.4.1_Sample'
 include ':ViewPagerIndicator_library'
 
 include ':PullToRefresh_library'
 include ':pullToRefreshListFragment'
 include ':pullToRefreshViewPager'
 include ':PullToRefresh_sample'
+include ':upload_file_android'
+include ':baiduNaviSDK_3_2_0_SimpleDemo'

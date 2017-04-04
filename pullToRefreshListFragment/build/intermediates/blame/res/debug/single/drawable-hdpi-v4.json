@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\ShiJiaZhuangNews\\PullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
         "merged": "D:\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
         "source": "D:\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\ShiJiaZhuangNews\\PullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
     },
@@ -10,5 +14,13 @@
     {
         "merged": "D:\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
         "source": "D:\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\ShiJiaZhuangNews\\PullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\ShiJiaZhuangNews\\PullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\ShiJiaZhuangNews\\PullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
     }
 ]

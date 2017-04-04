@@ -11,7 +11,7 @@ import com.atguigu.shijiazhuangnews.activity.MainActivity;
 import com.atguigu.shijiazhuangnews.base.BaseFragment;
 import com.atguigu.shijiazhuangnews.base.BasePager;
 import com.atguigu.shijiazhuangnews.pager.HomePager;
-import com.atguigu.shijiazhuangnews.pager.NewsCenterPager;
+import com.atguigu.shijiazhuangnews.newscenter.view.NewsCenterPager;
 import com.atguigu.shijiazhuangnews.pager.SettingPager;
 import com.slidingmenu.lib.SlidingMenu;
 

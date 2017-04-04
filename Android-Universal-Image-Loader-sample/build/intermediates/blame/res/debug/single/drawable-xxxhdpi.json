@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_launcher.png",
         "source": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
     }

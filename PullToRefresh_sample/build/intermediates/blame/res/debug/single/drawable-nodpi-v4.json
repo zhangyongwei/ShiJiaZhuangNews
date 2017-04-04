@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\wallpaper.jpg",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\PullToRefresh_sample\\src\\main\\res\\drawable-nodpi\\wallpaper.jpg"
+    },
+    {
         "merged": "D:\\ShiJiaZhuangNews\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\wallpaper.jpg",
         "source": "D:\\ShiJiaZhuangNews\\PullToRefresh_sample\\src\\main\\res\\drawable-nodpi\\wallpaper.jpg"
     }

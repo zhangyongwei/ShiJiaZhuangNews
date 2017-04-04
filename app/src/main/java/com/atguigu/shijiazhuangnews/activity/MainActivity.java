@@ -6,6 +6,7 @@ import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentTransaction;
+import android.util.DisplayMetrics;
 import android.view.KeyEvent;
 import android.view.WindowManager;
 import android.widget.Toast;
@@ -13,7 +14,6 @@ import android.widget.Toast;
 import com.atguigu.shijiazhuangnews.R;
 import com.atguigu.shijiazhuangnews.fragment.ContentFragment;
 import com.atguigu.shijiazhuangnews.fragment.LeftMenuFragment;
-import com.atguigu.shijiazhuangnews.utils.DensityUtil;
 import com.slidingmenu.lib.SlidingMenu;
 import com.slidingmenu.lib.app.SlidingFragmentActivity;
 
@@ -25,6 +25,7 @@ public class MainActivity extends SlidingFragmentActivity {
     public static final String LEFTMENU_TAG = "leftmenu_tag";
     public static final String CONENT_TAG = "conent_tag";
 
+    int screenWidth;
     @Override
     public void onCreate(Bundle savedInstanceState) {
 
@@ -35,6 +36,11 @@ public class MainActivity extends SlidingFragmentActivity {
 
         //1.设置主页面
         setContentView(R.layout.activity_main);
+
+        DisplayMetrics out = new DisplayMetrics();
+        getWindowManager().getDefaultDisplay().getMetrics(out);
+        screenWidth = out.widthPixels;
+
         //2.设置左侧菜单
         setBehindContentView(R.layout.leftmenu);
         //3.设置右侧菜单
@@ -47,7 +53,8 @@ public class MainActivity extends SlidingFragmentActivity {
         slidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
 
         //6.设置主页占得宽度dip
-        slidingMenu.setBehindOffset(DensityUtil.dip2px(this,200));
+//        slidingMenu.setBehindOffset(DensityUtil.dip2px(this,200));
+        slidingMenu.setBehindOffset((int) (screenWidth*0.625));
 
         initFragment();
 

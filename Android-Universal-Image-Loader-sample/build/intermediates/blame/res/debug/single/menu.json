@@ -2,5 +2,9 @@
     {
         "merged": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
         "source": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\menu\\main_menu.xml"
     }
 ]

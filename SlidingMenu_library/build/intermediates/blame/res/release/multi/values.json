@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\ShiJiaZhuangNews\\SlidingMenu_library\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\workspace\\ShiJiaZhuangNews\\SlidingMenu_library\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 1046
                 },
                 "from": {
-                    "file": "D:\\ShiJiaZhuangNews\\SlidingMenu_library\\src\\main\\res\\values\\ids.xml",
+                    "file": "D:\\workspace\\ShiJiaZhuangNews\\SlidingMenu_library\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

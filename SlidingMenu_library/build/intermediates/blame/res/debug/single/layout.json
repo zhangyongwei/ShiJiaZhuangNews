@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\SlidingMenu_library\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\SlidingMenu_library\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
         "merged": "D:\\ShiJiaZhuangNews\\SlidingMenu_library\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
         "source": "D:\\ShiJiaZhuangNews\\SlidingMenu_library\\src\\main\\res\\layout\\slidingmenumain.xml"
     }

@@ -7,17 +7,37 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
-* default.properties
+* build.bat
+* build.sh
+* build.xml
+* demo_build.xml
+* ic_launcher-web.png
+* proguard-project.txt
+* proguard.cfg
+* sdkdemotest.keystore
 
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => upload_file_android\src\main\AndroidManifest.xml
-* assets\ => upload_file_android\src\main\assets
-* res\ => upload_file_android\src\main\res\
-* src\ => upload_file_android\src\main\java\
+* AndroidManifest.xml => baiduNaviSDK_3_2_0_SimpleDemo\src\main\AndroidManifest.xml
+* assets\ => baiduNaviSDK_3_2_0_SimpleDemo\src\main\assets\
+* libs\armeabi\libapp_BaiduNaviApplib.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libapp_BaiduNaviApplib.so
+* libs\armeabi\libapp_BaiduVIlib.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libapp_BaiduVIlib.so
+* libs\armeabi\libaudiomessage-jni.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libaudiomessage-jni.so
+* libs\armeabi\libbd_etts.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libbd_etts.so
+* libs\armeabi\libbds.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libbds.so
+* libs\armeabi\libBDSpeechDecoder_V1.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libBDSpeechDecoder_V1.so
+* libs\armeabi\libbdtts.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libbdtts.so
+* libs\armeabi\libcurl.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libcurl.so
+* libs\armeabi\libetts_domain_data_builder.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libetts_domain_data_builder.so
+* libs\armeabi\libgnustl_shared.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\libgnustl_shared.so
+* libs\armeabi\liblocnaviSDK.so => baiduNaviSDK_3_2_0_SimpleDemo\src\main\jniLibs\armeabi\liblocnaviSDK.so
+* libs\BaiduNaviSDK_3.2.0.jar => baiduNaviSDK_3_2_0_SimpleDemo\libs\BaiduNaviSDK_3.2.0.jar
+* libs\httpmime-4.1.2.jar => baiduNaviSDK_3_2_0_SimpleDemo\libs\httpmime-4.1.2.jar
+* res\ => baiduNaviSDK_3_2_0_SimpleDemo\src\main\res\
+* src\ => baiduNaviSDK_3_2_0_SimpleDemo\src\main\java\
 
 Next Steps:
 -----------

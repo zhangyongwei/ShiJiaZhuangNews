@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\PhotoView_sample\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
         "merged": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
         "source": "D:\\ShiJiaZhuangNews\\PhotoView_sample\\src\\main\\res\\menu\\main_menu.xml"
     }

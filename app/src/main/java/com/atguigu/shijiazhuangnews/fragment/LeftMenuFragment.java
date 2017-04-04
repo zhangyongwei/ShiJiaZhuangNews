@@ -12,7 +12,7 @@ import com.atguigu.shijiazhuangnews.R;
 import com.atguigu.shijiazhuangnews.activity.MainActivity;
 import com.atguigu.shijiazhuangnews.base.BaseFragment;
 import com.atguigu.shijiazhuangnews.bean.NewsCenterBean;
-import com.atguigu.shijiazhuangnews.pager.NewsCenterPager;
+import com.atguigu.shijiazhuangnews.newscenter.view.NewsCenterPager;
 import com.atguigu.shijiazhuangnews.utils.DensityUtil;
 
 import java.util.List;

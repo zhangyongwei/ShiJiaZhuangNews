@@ -4,6 +4,14 @@
         "source": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
         "merged": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error.png",
         "source": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-hdpi\\ic_error.png"
     },
@@ -14,5 +22,13 @@
     {
         "merged": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stub.png",
         "source": "D:\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stub.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_empty.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\Android-Universal-Image-Loader-sample\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
     }
 ]

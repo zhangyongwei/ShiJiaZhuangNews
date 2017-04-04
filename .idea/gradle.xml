@@ -12,6 +12,10 @@
             <option value="$PROJECT_DIR$/Android-Universal-Image-Loader-sample" />
             <option value="$PROJECT_DIR$/AndroidAndH5" />
             <option value="$PROJECT_DIR$/AndroidAndJs" />
+            <option value="$PROJECT_DIR$/BaiDuLocal" />
+            <option value="$PROJECT_DIR$/BaiduMapSDK_BikeNavi_Demo" />
+            <option value="$PROJECT_DIR$/BaiduMap_AndroidPanoramaSDK_v2.4.1_Sample" />
+            <option value="$PROJECT_DIR$/BaiduMapsApiASDemo" />
             <option value="$PROJECT_DIR$/JPushExample(586061)" />
             <option value="$PROJECT_DIR$/OkHttpSample" />
             <option value="$PROJECT_DIR$/OkHttpUtils-masters" />
@@ -19,6 +23,12 @@
             <option value="$PROJECT_DIR$/PhotoView_sample" />
             <option value="$PROJECT_DIR$/PullToRefresh_library" />
             <option value="$PROJECT_DIR$/PullToRefresh_sample" />
+            <option value="$PROJECT_DIR$/ScreenAdapter_Code" />
+            <option value="$PROJECT_DIR$/ScreenAdapter_Dimension" />
+            <option value="$PROJECT_DIR$/ScreenAdapter_Layout" />
+            <option value="$PROJECT_DIR$/ScreenAdapter_PIC" />
+            <option value="$PROJECT_DIR$/ScreenAdapter_Weight" />
+            <option value="$PROJECT_DIR$/ScreenAdpater_percent" />
             <option value="$PROJECT_DIR$/SlidingMenu_library" />
             <option value="$PROJECT_DIR$/SpannableStringBuilderDemo" />
             <option value="$PROJECT_DIR$/Universal-Image-Loader_library" />
@@ -28,6 +38,7 @@
             <option value="$PROJECT_DIR$/android-gif-drawable-library" />
             <option value="$PROJECT_DIR$/android_gif_drawable_demo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baiduNaviSDK_3_2_0_SimpleDemo" />
             <option value="$PROJECT_DIR$/okhttpserver" />
             <option value="$PROJECT_DIR$/okhttputils" />
             <option value="$PROJECT_DIR$/okhttputils_library" />

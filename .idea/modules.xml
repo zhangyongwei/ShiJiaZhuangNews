@@ -6,6 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/Android-Universal-Image-Loader-sample/Android-Universal-Image-Loader-sample.iml" filepath="$PROJECT_DIR$/Android-Universal-Image-Loader-sample/Android-Universal-Image-Loader-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidAndH5/AndroidAndH5.iml" filepath="$PROJECT_DIR$/AndroidAndH5/AndroidAndH5.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidAndJs/AndroidAndJs.iml" filepath="$PROJECT_DIR$/AndroidAndJs/AndroidAndJs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiDuLocal/BaiDuLocal.iml" filepath="$PROJECT_DIR$/BaiDuLocal/BaiDuLocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiduMapSDK_BikeNavi_Demo/BaiduMapSDK_BikeNavi_Demo.iml" filepath="$PROJECT_DIR$/BaiduMapSDK_BikeNavi_Demo/BaiduMapSDK_BikeNavi_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiduMap_AndroidPanoramaSDK_v2.4.1_Sample/BaiduMap_AndroidPanoramaSDK_v2.4.1_Sample.iml" filepath="$PROJECT_DIR$/BaiduMap_AndroidPanoramaSDK_v2.4.1_Sample/BaiduMap_AndroidPanoramaSDK_v2.4.1_Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiduMapsApiASDemo/BaiduMapsApiASDemo.iml" filepath="$PROJECT_DIR$/BaiduMapsApiASDemo/BaiduMapsApiASDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JPushExample(586061)/JPushExample(586061).iml" filepath="$PROJECT_DIR$/JPushExample(586061)/JPushExample(586061).iml" />
       <module fileurl="file://$PROJECT_DIR$/OkHttpSample/OkHttpSample.iml" filepath="$PROJECT_DIR$/OkHttpSample/OkHttpSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/OkHttpUtils-masters/OkHttpUtils-masters.iml" filepath="$PROJECT_DIR$/OkHttpUtils-masters/OkHttpUtils-masters.iml" />
@@ -13,6 +17,12 @@
       <module fileurl="file://$PROJECT_DIR$/PhotoView_sample/PhotoView_sample.iml" filepath="$PROJECT_DIR$/PhotoView_sample/PhotoView_sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" filepath="$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/PullToRefresh_sample/PullToRefresh_sample.iml" filepath="$PROJECT_DIR$/PullToRefresh_sample/PullToRefresh_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenAdapter_Code/ScreenAdapter_Code.iml" filepath="$PROJECT_DIR$/ScreenAdapter_Code/ScreenAdapter_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenAdapter_Dimension/ScreenAdapter_Dimension.iml" filepath="$PROJECT_DIR$/ScreenAdapter_Dimension/ScreenAdapter_Dimension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenAdapter_Layout/ScreenAdapter_Layout.iml" filepath="$PROJECT_DIR$/ScreenAdapter_Layout/ScreenAdapter_Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenAdapter_PIC/ScreenAdapter_PIC.iml" filepath="$PROJECT_DIR$/ScreenAdapter_PIC/ScreenAdapter_PIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenAdapter_Weight/ScreenAdapter_Weight.iml" filepath="$PROJECT_DIR$/ScreenAdapter_Weight/ScreenAdapter_Weight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenAdpater_percent/ScreenAdpater_percent.iml" filepath="$PROJECT_DIR$/ScreenAdpater_percent/ScreenAdpater_percent.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShiJiaZhuangNews.iml" filepath="$PROJECT_DIR$/ShiJiaZhuangNews.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" filepath="$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpannableStringBuilderDemo/SpannableStringBuilderDemo.iml" filepath="$PROJECT_DIR$/SpannableStringBuilderDemo/SpannableStringBuilderDemo.iml" />
@@ -23,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/android-gif-drawable-library/android-gif-drawable-library.iml" filepath="$PROJECT_DIR$/android-gif-drawable-library/android-gif-drawable-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_gif_drawable_demo/android_gif_drawable_demo.iml" filepath="$PROJECT_DIR$/android_gif_drawable_demo/android_gif_drawable_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiduNaviSDK_3_2_0_SimpleDemo/baiduNaviSDK_3_2_0_SimpleDemo.iml" filepath="$PROJECT_DIR$/baiduNaviSDK_3_2_0_SimpleDemo/baiduNaviSDK_3_2_0_SimpleDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttpserver/okhttpserver.iml" filepath="$PROJECT_DIR$/okhttpserver/okhttpserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttputils_library/okhttputils_library.iml" filepath="$PROJECT_DIR$/okhttputils_library/okhttputils_library.iml" />

@@ -6,5 +6,13 @@
     {
         "merged": "D:\\ShiJiaZhuangNews\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
         "source": "D:\\ShiJiaZhuangNews\\PullToRefresh_sample\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\PullToRefresh_sample\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\ShiJiaZhuangNews\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\android.png",
+        "source": "D:\\workspace\\ShiJiaZhuangNews\\PullToRefresh_sample\\src\\main\\res\\drawable-hdpi\\android.png"
     }
 ]
